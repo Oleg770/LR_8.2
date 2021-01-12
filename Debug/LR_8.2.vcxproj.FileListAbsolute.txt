@@ -1,0 +1,4 @@
+D:\Student\Semester_1\LR_8.2\Debug\LR_8.2.exe
+D:\Student\Semester_1\LR_8.2\Debug\LR_8.2.pdb
+D:\Student\Semester_1\АП\LR_8.2\Debug\LR_8.2.exe
+D:\Student\Semester_1\АП\LR_8.2\Debug\LR_8.2.pdb
